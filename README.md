@@ -46,7 +46,7 @@ Atualmente cursando o [1º] período de [Ciencias Da Computação] na [Unicid]. 
 | **Traduzindo Lógica para Python** | código que calcula vendas, médias e notas de alunos | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Algoritmo de microclima local,  | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
 | **Desenhando Emojis com Dados** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-desenho-emojis-com-dados/) |
-| **Sistema de Auditoria de Recursos Corporativos** | sistema que calcula o financeamento de diferentes setores de uma empresa | [Ver Projeto](./projeto_sistema_de_auditoria/) |
+| **Sistema de Auditoria de Recursos Corporativos** | sistema que calcula o financeamento de diferentes setores de uma empresa | [Ver Projeto](./projeto-sistema-de-auditoria/) |
  
 ---
  

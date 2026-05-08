@@ -40,11 +40,11 @@ Atualmente cursando o [1º] período de [Ciencias Da Computação] na [Unicid]. 
 #### 🗃️ Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmo de auditoria de dados** | Repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional. | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
+| **Algoritmo de auditoria de dados** | programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
 | **Engenharia de Soluções Lógicas** | Pseudocódigo no papel em contexto de analise de cores | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
 | **Modularização** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-modularizacao/) |
-| **Traduzindo Lógica para Python** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
-| **Engenharia de Contexto e Lógica Física** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
+| **Traduzindo Lógica para Python** | código que calcula vendas, médias e notas de alunos | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
+| **Engenharia de Contexto e Lógica Física** | Algoritmo de microclima local,  | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
 | **Desenhando Emojis com Dados** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-desenho-emojis-com-dados/) |
  
 ---
